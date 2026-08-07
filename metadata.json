@@ -1,0 +1,6 @@
+{
+  "name": "Apartament Aksamitka",
+  "description": "Oficjalna strona Apartamentu Aksamitka",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
